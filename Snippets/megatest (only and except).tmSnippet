@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>megatest "should ${1:do something}", :only =&gt; [$2], :except =&gt; [$3] do |config, country, env|
+  config.$4
+end</string>
+	<key>name</key>
+	<string>megatest (only and except)</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>megoe</string>
+	<key>uuid</key>
+	<string>831CEEA8-3B5D-4889-B3AC-CF6D94C5E0D5</string>
+</dict>
+</plist>
